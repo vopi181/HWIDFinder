@@ -1,3 +1,5 @@
+Hello there!
+
 # HWIDFinder
 Header-only utils dealing with HWID
 
